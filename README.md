@@ -1,2 +1,2 @@
 # Zerodha
-Making Zerodha clone for learning purpose.
+Making Zerodha landing page clone for learning purpose.
